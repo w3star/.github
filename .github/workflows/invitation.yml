@@ -6,27 +6,12 @@ jobs:
   automate_invite:
     runs-on: ubuntu-latest
     steps:
-      - name: Invite on label
+      - name: github-invitation
         uses: vj-abigo/invite-on-label@v1.3
         with:
           organization: laraguru
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: |
-            <div align="center">
-            <img src="https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif">
-            <br>
-            <h1>Welcome To Laraguru 🎉</h1>
-            </div>
-            <br>
-
-            > Invitation sent to join the GitHub Organization. Check your mail to accept the invitation! 🤖
-
-            ## About Us
-
+          comment: 'Welcome to the Org.'
         env:
-          INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
-#       - name: Discord Notification
-#         uses: wei/curl@master
-#         with:
-#           args: -X POST -H "Content-Type:application/json" -d '{"content":"${{github.event.issue.user.login}} just joined our GitHub organization"}' ${{ secrets.DISCORD_INVITATION }}
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
