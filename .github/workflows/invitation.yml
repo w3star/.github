@@ -10,8 +10,8 @@ jobs:
         uses: vj-abigo/invite-on-label@v1.3
         with:
           organization: catcrop
-          label: invite me to the organization
+          label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: 'Welcome to CatCrop.'
+          comment: 'Welcome to the Org.'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
