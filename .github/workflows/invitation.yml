@@ -9,7 +9,7 @@ jobs:
       - name: github-invitation
         uses: vj-abigo/invite-on-label@v1.3
         with:
-          organization: laraguru
+          organization: catcrop
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: 'Welcome to the Org.'
