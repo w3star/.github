@@ -13,8 +13,8 @@ body:
   - type: input
     id: discordname
     attributes:
-      label: Discord Username (if applicable)
-      placeholder: Abir#9774
+      label: telegram Number or Username
+      placeholder: xxxx#0000
     validations:
       required: false
   - type: textarea
