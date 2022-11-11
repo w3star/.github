@@ -5,7 +5,11 @@
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center"> 
-<a href="https://t.me/catcrop"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href="https://dev.to/catcrop"><img src="https://img.icons8.com/color/48/000000/internet.png"/></a>
 &nbsp;
-<a href="https://github.com/catcrop"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://github.com/catcrop"><img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+&nbsp;
+<a href="https://t.me/catcrop"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
+&nbsp;
+<a href="https://join.skype.com/yVzRGGRMt44b"><img src="https://img.icons8.com/fluency/48/000000/skype.png"/></a>
 </p>
