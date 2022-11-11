@@ -1,7 +1,7 @@
 
 
 <p align="center">Join our <a href="https://github.com/catcrop/.github/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=50&section=header" height="100" />
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center"> 
