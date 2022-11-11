@@ -5,11 +5,13 @@
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center"> 
-<a href="https://dev.to/catcrop"><img src="https://img.icons8.com/color/48/000000/internet.png"/></a>
+<a href="https://dev.to/catcrop"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 &nbsp;
 <a href="https://github.com/catcrop"><img src="https://img.icons8.com/fluency/48/000000/github.png"/>
 &nbsp;
 <a href="https://t.me/catcrop"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 &nbsp;
 <a href="https://join.skype.com/yVzRGGRMt44b"><img src="https://img.icons8.com/fluency/48/000000/skype.png"/></a>
+&nbsp;
+<a href="mailto:larastar721@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/circled-envelope.png"/></a>
 </p>
