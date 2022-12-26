@@ -1,4 +1,4 @@
-name: Welcome to Catcrop!!!
+name: Welcome to FlareHub!!!
 description: I would like to be part of the awesome community
 title: "Please invite me to the GitHub Community Organization"
 labels: [github-invitation]
@@ -13,7 +13,7 @@ body:
   - type: input
     id: discordname
     attributes:
-      label: telegram Number or Username
+      label: Discord UserID
       placeholder: xxxx#0000
     validations:
       required: false
@@ -21,10 +21,10 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Why do you want to join Tech Phantoms? What stuff you are excited to learn or build at Laraguru?
+      description: Why do you want to join FlareHub? What stuff you are excited to learn or build at FlareHub?
     validations:
       required: true
   - type: markdown
     attributes:
       value: |
-        We also have other amazing repositories! Check them out [here](https://github.com/catcrop).
+        We also have other amazing repositories! Check them out [here](https://github.com/flarehub).
